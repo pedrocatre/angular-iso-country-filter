@@ -1,0 +1,14 @@
+{
+  "name": "angular-iso-country-filter",
+  "version": "0.0.1",
+  "main": [
+    "dist/isoCountryFilter.min.js"
+  ],
+  "ignore": [
+    "src",
+    ".gitignore",
+    "bower.json",
+    "README.md",
+    "LICENSE.md"
+  ]
+}
